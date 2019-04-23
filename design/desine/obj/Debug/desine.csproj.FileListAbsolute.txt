@@ -1,0 +1,12 @@
+C:\Users\ok\Desktop\فایل های درسی\desine\desine\bin\desine.dll.config
+C:\Users\ok\Desktop\فایل های درسی\desine\desine\bin\desine.dll
+C:\Users\ok\Desktop\فایل های درسی\desine\desine\bin\desine.pdb
+C:\Users\ok\Desktop\فایل های درسی\desine\desine\obj\Debug\desine.csprojResolveAssemblyReference.cache
+C:\Users\ok\Desktop\فایل های درسی\desine\desine\obj\Debug\desine.dll
+C:\Users\ok\Desktop\فایل های درسی\desine\desine\obj\Debug\desine.pdb
+C:\Users\Soldir\OneDrive\desine\bin\desine.dll.config
+C:\Users\Soldir\OneDrive\desine\bin\desine.dll
+C:\Users\Soldir\OneDrive\desine\bin\desine.pdb
+C:\Users\Soldir\OneDrive\desine\obj\Debug\desine.csprojResolveAssemblyReference.cache
+C:\Users\Soldir\OneDrive\desine\obj\Debug\desine.dll
+C:\Users\Soldir\OneDrive\desine\obj\Debug\desine.pdb
